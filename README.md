@@ -26,8 +26,8 @@ Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/)
 1. **Clone the Repository**: Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/self-driving-car-object-detection.git
-
+   gh repo clone Maatrika-P/Object-Detection-System-for-Self-Driving-Cars
+   
 2. **Install Dependencies**: Navigate to the project directory and install the required Python packages:
    
    ```bash
