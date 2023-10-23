@@ -50,19 +50,19 @@ In recent years, self-driving cars have emerged as a transformative technology w
 
 🎯 Key milestones for this project:
 
-Dataset Preparation and Preprocessing
-Model Selection and Architecture Implementation
-Model Training and Performance Evaluation
-Real-world Testing on Self-Driving Car Platform
+- Dataset Preparation and Preprocessing
+- Model Selection and Architecture Implementation
+- Model Training and Performance Evaluation
+- Real-world Testing on Self-Driving Car Platform
 
 ## Roadblocks
 🚧 Potential roadblocks:
 
-Limited Hardware Resources
-Fine-tuning Models for Specific Car Platforms
-Ensuring Real-time Performance on Self-Driving Car Hardware
-Handling Varying Lighting and Weather Conditions
-Project Completion and Documentation
+- Limited Hardware Resources
+- Fine-tuning Models for Specific Car Platforms
+- Ensuring Real-time Performance on Self-Driving Car Hardware
+- Handling Varying Lighting and Weather Conditions
+- Project Completion and Documentation
 
 ## Conclusion
 📈 By exploring Faster R-CNN and Mask R-CNN, we aim to develop advanced object detection and segmentation systems for self-driving cars, contributing to safer and more efficient autonomous driving technology.
