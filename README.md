@@ -9,7 +9,8 @@ In recent years, self-driving cars have emerged as a transformative technology w
 ## Dataset
 
 📂 We leverage the BDD100K dataset, which provides a diverse collection of images and annotations, including object detection, instance segmentation, and panoptic segmentation. This dataset serves as the cornerstone for training and testing our self-driving car perception system.
-Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/)
+
+- Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/)
 
 ## Models
 
