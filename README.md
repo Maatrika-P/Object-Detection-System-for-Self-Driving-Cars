@@ -12,13 +12,15 @@ In recent years, self-driving cars have emerged as a transformative technology w
 
 - Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/)
 
-## Models
+## Models Experimenting with 
 
 🔍 We will explore various models for object detection and segmentation, with a primary focus on:
 
 1. **Faster R-CNN**: A region-based Convolutional Neural Network (CNN) that excels in object detection. It's known for its balance between speed and accuracy, making it suitable for real-time applications.
 
 2. **Mask R-CNN**: An extension of Faster R-CNN, Mask R-CNN also provides instance segmentation. This model is essential for recognizing and differentiating objects within the same class.
+
+3. **U-Net**: its a convolutional neural network architecture designed for semantic segmentation tasks, featuring a U-shaped encoder-decoder structure to capture fine-grained image details.
 
 ## Setting Up
 
