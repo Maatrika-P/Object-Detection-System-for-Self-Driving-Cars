@@ -55,7 +55,7 @@ In recent years, self-driving cars have emerged as a transformative technology w
 - Dataset Preparation and Preprocessing
 - Model Selection and Architecture Implementation
 - Model Training and Performance Evaluation
-- Real-world Testing on Self-Driving Car Platform
+- Real-world Testing on a Self-Driving Car Platform
 
 ## Roadblocks
 🚧 Potential roadblocks:
