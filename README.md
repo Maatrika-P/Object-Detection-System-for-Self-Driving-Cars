@@ -14,7 +14,7 @@ In recent years, self-driving cars have emerged as a transformative technology w
 
 ## Models Experimenting with 
 
-🔍 We will explore various models for object detection and segmentation, with a primary focus on:
+🔍 We will explore various models for object detection and segmentation, with a primary focus on the following:
 
 1. **Faster R-CNN**: A region-based Convolutional Neural Network (CNN) that excels in object detection. It's known for its balance between speed and accuracy, making it suitable for real-time applications.
 
