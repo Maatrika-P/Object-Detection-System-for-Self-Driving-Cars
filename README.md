@@ -10,7 +10,7 @@ In recent years, self-driving cars have emerged as a transformative technology w
 
 📂 Leveraged the BDD100K dataset, which provides a diverse collection of images and annotations, including object detection, instance segmentation, and panoptic segmentation. This dataset serves as the cornerstone for training and testing our self-driving car perception system.
 
-- Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/), https://paperswithcode.com/dataset/idd , https://universe.roboflow.com/object-detection-dp5wa/yolo-v8-indian-roads-dataset , https://data.mendeley.com/datasets/nfc34n8svj/2 , https://universe.roboflow.com/indian-road-dataset/indian-roads-detection , https://www.google.com/search?q=object+detection+driving+dataset+india&sca_esv=3697c3e79dce3da7&sca_upv=1&sxsrf=ADLYWIKnXd6LtvPglW3Iql_Np4QG8qLyeA%3A1718294240043&ei=4BZrZtKpArLvseMP5qu34Ag&ved=0ahUKEwjSmbDu-NiGAxWyd2wGHebVDYwQ4dUDCBA&uact=5&oq=object+detection+driving+dataset+india&gs_lp=Egxnd3Mtd2l6LXNlcnAiJm9iamVjdCBkZXRlY3Rpb24gZHJpdmluZyBkYXRhc2V0IGluZGlhMgUQIRigATIFECEYoAFIkiJQrghY_iBwA3gBkAEAmAG6AaAB3QiqAQMwLje4AQPIAQD4AQGYAgqgAvsIwgIKEAAYsAMY1gQYR8ICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQIRifBcICBxAhGKABGAqYAwCIBgGQBgiSBwMzLjegB_Qr&sclient=gws-wiz-serp#ip=1 , 
+- Dataset source: [BDD100K Dataset](https://bdd-data.berkeley.edu/)
 
 ## Models Experimenting with 
 
