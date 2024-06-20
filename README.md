@@ -26,7 +26,7 @@ In recent years, self-driving cars have emerged as a transformative technology w
 
 🚀 Follow these steps to set up and use the project:
 
-1. **Clone the Repository**: Clone this repository to your local machine:
+1. **Clone the Repository**: Clone the repository to your local machine:
 
    ```bash
    gh repo clone Maatrika-P/Object-Detection-System-for-Self-Driving-Cars
